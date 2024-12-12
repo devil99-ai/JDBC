@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-22\bin"/>
-    <property name="sun.java.command" value="C:\Users\svksh\AppData\Local\Temp\surefire6286572701973513967\surefirebooter-20241210084158415_3.jar C:\Users\svksh\AppData\Local\Temp\surefire6286572701973513967 2024-12-10T08-41-58_318-jvmRun1 surefire-20241210084158415_1tmp surefire_0-20241210084158415_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\svksh\AppData\Local\Temp\surefire1472814700738576255\surefirebooter-20241211222039341_3.jar C:\Users\svksh\AppData\Local\Temp\surefire1472814700738576255 2024-12-11T22-20-39_249-jvmRun1 surefire-20241211222039341_1tmp surefire_0-20241211222039341_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\svksh\eclipse-workspace\JDBCDemos\target\test-classes;C:\Users\svksh\eclipse-workspace\JDBCDemos\target\classes;C:\Users\svksh\.m2\repository\com\mysql\mysql-connector-j\8.3.0\mysql-connector-j-8.3.0.jar;C:\Users\svksh\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\svksh\AppData\Local\Temp\surefire6286572701973513967\surefirebooter-20241210084158415_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\svksh\AppData\Local\Temp\surefire1472814700738576255\surefirebooter-20241211222039341_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="22+36-2370"/>
